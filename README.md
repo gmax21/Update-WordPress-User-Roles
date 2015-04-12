@@ -5,4 +5,4 @@ http://premium.wpmudev.org/forums/topic/user-cannot-access-subsite-after-vps-cra
 
 Remember to remove the plugin onces you're done, else it runs constantly!!! 
 
-There are no checkes for super admin roles, no settings, you just install activate and visit the site, if in a network load all sites.
+There are no checkes for super admin roles, no settings, nothing fancy. You just install, activate and visit the site, if in a network/mutisite you would load all sites.
